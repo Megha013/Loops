@@ -50,6 +50,7 @@
     <Compile Include="OddNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SeventhElement.cs" />
+    <Compile Include="SumOfDigit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
